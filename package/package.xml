@@ -1,0 +1,21 @@
+<Meta>
+	<title>Moongate Invasion</title>
+	<id>moongate_invasion</id>
+	<author>105gun</author>
+	<loadPriority>100</loadPriority>
+    <description>This mod allows you to invade other players's maps via moongate. You can kill their NPCs and take their furniture. Using this mod will not cause any damage to the uploaders.
+Also, for various reasons, this mod cannot be balanced. You may encounter overpowered enemies or get some valuable loot too easily. Please be aware of this.
+
+
+[h2]Enemies[/h2]
+Enemies are converted from original NPCs. In addition, random monsters will be generated based on the level of your teammates in your party.
+
+[h2]Containers[/h2]
+For technical reasons, we don't have access to the items saved in containers by the uploader of the map (really bad news). In lieu of this, this mod will randomly generate loot based on the number and level of enemies in the map.
+
+[h2]Invasion results[/h2]
+Upon entering the map, the player loses up to 10 Karma depending on the size of the map.
+If you die, you lose all the loot you found in the map. Otherwise, the loot can be brought out and used normally.</description>
+	<version>0.23.32</version>
+	<tags>General</tags>
+</Meta>
